@@ -30,6 +30,6 @@ htmlcov/
 
 .github/**
 
-
+.env_file
 JWT_SECRET='myjwtsecret'
 LOG_LEVEL=DEBUG
